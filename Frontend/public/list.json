@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Chaos & Flame",
+        "title":"In a world teetering on the brink of destruction, heroes rise amidst chaos, wielding flames of courage to challenge fate's relentless grip in 'Chaos and Flame'.",
+        "price":0,
+        "category":"Free",
+        "image":"https://toppsta.com/images/covers/9/7/8/1/9780241609781.webp?t=1707197762"
+    },
+    {
+        "id":2,
+        "name":"Harry Potter and the Chamber of Secrets",
+        "title":"Amidst whispers of ancient mysteries, Harry and his friends delve into the secrets of Hogwarts' past, confronting perilous foes and uncovering dark truths lurking within the Chamber of Secrets.",
+        "price":0,
+        "category":"Free",
+        "image":"https://toppsta.com/images/covers/5/9/0/4/9781408855904.webp?t=1709095286"
+    },
+    {
+        "id":3,
+        "name":"Harry Potter and the Philosopher's Stone",
+        "title":"In the enchanting world of magic, Harry Potter embarks on a thrilling journey as he discovers his true identity and confronts the ultimate power of the Philosopher's Stone.",
+        "price":0,
+        "category":"Free",
+        "image":"https://toppsta.com/images/covers/5/6/5/2/9781408855652.webp?t=1707367576"
+    },
+    {
+        "id":4,
+        "name":"Harry Potter and the Prison of Azkaban",
+        "title":"As dark forces loom, Harry Potter confronts his deepest fears within the sinister walls of Azkaban Prison, where the true nature of betrayal and redemption unfolds under the watchful eyes of the Dementors.",
+        "price":0,
+        "category":"Free",
+        "image":"https://toppsta.com/images/covers/0/7/7/7/9780747560777.webp?t=1700794870"
+    },
+    {
+        "id":5,
+        "name":"Harry Potter and the Order of the Phoenix",
+        "title":"In a world gripped by fear and uncertainty, Harry Potter rallies with the secret society, the Order of the Phoenix, to combat the rising darkness and defend the wizarding world against tyranny and oppression.",
+        "price":0,
+        "category":"Free",
+        "image":"https://toppsta.com/images/covers/5/9/3/5/9781408855935.webp?t=1709095287"
+    },
+    {
+        "id":6,
+        "name":"Harry Potter and the Deathly Hallows",
+        "title":"As the final battle looms, Harry Potter embarks on a perilous quest to uncover the secrets of the Deathly Hallows, confronting his destiny amidst a world consumed by darkness and despair.",
+        "price":10,
+        "category":"",
+        "image":"https://toppsta.com/images/covers/5/9/5/9/9781408855959.webp?t=1709095287"
+    },
+    {
+        "id":7,
+        "name":"Harry Potter and the Goblet of Fire",
+        "title":"Amidst the flames of competition, Harry Potter faces the greatest challenge yet as he confronts dragons, delves into dark magic, and unravels a web of deceit in the electrifying tournament of the Goblet of Fire.",
+        "price":10,
+        "category":"",
+        "image":"https://toppsta.com/images/covers/5/6/8/3/9781408855683.webp?t=1708689512"
+    },
+    {
+        "id":8,
+        "name":"Harry Potter and the Half-Blood Prince",
+        "title":"",
+        "price":10,
+        "category":"",
+        "image":"https://toppsta.com/images/covers/1/5/2/9/9780747581529.webp?t=1700794871"
+    },
+    {
+        "id":9,
+        "name":"Starminster",
+        "title":"A Celestial Tapestry of Adventure and Intrigue.",
+        "price":0,
+        "category":"Free",
+        "image":"https://toppsta.com/images/covers/6/8/9/1/9780008626891.webp?t=1709181962"
+    }
+]
